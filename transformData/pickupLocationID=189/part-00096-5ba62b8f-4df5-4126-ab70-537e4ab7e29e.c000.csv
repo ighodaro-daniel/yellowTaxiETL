@@ -1,0 +1,5 @@
+dropoffLocationID,avgTripTimes,sum(total_amount)
+144,2022.0,27.1
+148,2022.0,19.55
+234,2022.0,33.5
+61,2022.0,9.3
