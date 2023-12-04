@@ -1,1 +1,1 @@
-#performing an ETL process with Apache spark
+#performing an ETL task with Apache spark
